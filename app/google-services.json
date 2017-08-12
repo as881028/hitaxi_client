@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "707065875756",
+    "firebase_url": "https://hi-taxi-fcm.firebaseio.com",
+    "project_id": "hi-taxi-fcm",
+    "storage_bucket": "hi-taxi-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707065875756:android:dae31ff0d5fceedb",
+        "android_client_info": {
+          "package_name": "com.dk.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707065875756-o0qvhk7vc2uhkv6l0t84ntfbi938vov6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dk.main",
+            "certificate_hash": "9e75f4933552f1778f65f46d495e2f078893590d"
+          }
+        },
+        {
+          "client_id": "707065875756-fi16ooa74nkf35m4u36qg424734j79s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAG-WU9PpUmM_B87v0rszuWcUvqICO5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707065875756-fi16ooa74nkf35m4u36qg424734j79s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
