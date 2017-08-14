@@ -8,6 +8,7 @@ import android.widget.ListView;
 
 import com.dk.main.R;
 import com.hitaxi.adapter.IncomeRecordAdapter;
+import com.hitaxi.base.MenuBaseActivity;
 import com.hitaxi.object.PersonalDetail;
 import com.hitaxi.object.TradDetail;
 import com.hitaxi.tools.phpConnection;
@@ -30,7 +31,7 @@ list view layout:   income_record_Listview
 adapter:            IncomeRecordAdapter
 路徑:               選單->個人資料->收入紀錄
  */
-public class IncomeRecordAty extends BaseActivity {
+public class IncomeRecordAty extends MenuBaseActivity {
 
 
     protected static final String TAG = "IncomeRecordActivity";
