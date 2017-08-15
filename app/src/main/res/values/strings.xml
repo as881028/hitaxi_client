@@ -33,4 +33,5 @@
     <string name="title_activity_service_center">service_center</string>
     <string name="title_activity_income_record">income_record</string>
     <string name="title_activity_opinion">opinion</string>
+    <string name="title_activity_client_operation">client_operation</string>
 </resources>

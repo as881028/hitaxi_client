@@ -95,6 +95,12 @@
             android:name="com.hitaxi.activities.ModPersonInfoAty"
             android:label="@string/title_activity_personal_information"
             android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name="com.hitaxi.activities.ClientOperation"
+            android:label="@string/title_activity_client_operation"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+
 
     </application>
 
