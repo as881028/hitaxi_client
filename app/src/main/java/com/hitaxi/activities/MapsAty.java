@@ -99,10 +99,10 @@ public class MapsAty extends BaseActivity implements OnMapReadyCallback, Connect
         //地圖同步
         mapFragment.getMapAsync(this);
 
-        initView();
+        //initView();
     }
 
-    View.OnClickListener statusClick = new View.OnClickListener() {
+    /**View.OnClickListener statusClick = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
             if (var.workStatus == false) {
@@ -122,7 +122,7 @@ public class MapsAty extends BaseActivity implements OnMapReadyCallback, Connect
         btnStatus = (Button) findViewById(R.id.btnStatus);
         btnStatus.setOnClickListener(statusClick);
         llStatus = (LinearLayout) findViewById(R.id.llStatus);
-    }
+    }*/
 
 
     /**
